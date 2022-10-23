@@ -87,14 +87,14 @@ function tim(id) {
                            </p> </div>
                     </div>
                 </div>
-                <h5>DAFTAR PEMAIN</h5>
+                <center><h5><b>DAFTAR PEMAIN</h5></center></b>
                 <div class="card">
                     <table class="centered responsive-table">
                         <thead>
-                            <th></th>
-                            <th>Nama Pemain</th>
-                            <th>Posisi</th>
-                            <th>Domisili</th>
+                            <th> No.</th>
+                            <th> Nama Pemain</th>
+                            <th> Posisi</th>
+                            <th> Tempat Tinggal</th>
                         </thead>
                         <tbody>
                             ${teams}
